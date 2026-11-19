@@ -7,6 +7,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.0.0-alpha.18](https://github.com/agentclientprotocol/agent-client-protocol/compare/schema-v2.0.0-alpha.17...schema-v2.0.0-alpha.18) - 2026-11-19
+
+### Other
+
+- *(unstable-v2)* qualify when a replay without replay_complete is truncated ([#2892](https://github.com/agentclientprotocol/agent-client-protocol/pull/2892))
+- *(unstable)* remove malformed-value handling from the spec text ([#2891](https://github.com/agentclientprotocol/agent-client-protocol/pull/2891))
+- *(unstable-v2)* align the name uniqueness rules for mcpServers and env ([#2890](https://github.com/agentclientprotocol/agent-client-protocol/pull/2890))
+- *(unstable-v2)* require unique configId and groupId values ([#2889](https://github.com/agentclientprotocol/agent-client-protocol/pull/2889))
+- *(unstable-v2)* say which display strings are plain text and which are Markdown ([#2887](https://github.com/agentclientprotocol/agent-client-protocol/pull/2887))
+- *(unstable-v2)* say a failed permission request is not approval ([#2883](https://github.com/agentclientprotocol/agent-client-protocol/pull/2883))
+- *(unstable-v2)* say which order session/list returns and that cwd stays the same ([#2882](https://github.com/agentclientprotocol/agent-client-protocol/pull/2882))
+- *(unstable-v2)* require an absolute command for stdio MCP servers ([#2878](https://github.com/agentclientprotocol/agent-client-protocol/pull/2878))
+- *(unstable-v2)* send a new session's non-idle state after the response ([#2871](https://github.com/agentclientprotocol/agent-client-protocol/pull/2871))
+
 ## [2.0.0-alpha.17](https://github.com/agentclientprotocol/agent-client-protocol/compare/schema-v2.0.0-alpha.16...schema-v2.0.0-alpha.17) - 2026-11-18
 
 ### Added

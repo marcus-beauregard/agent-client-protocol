@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.33.1](https://github.com/agentclientprotocol/agent-client-protocol/compare/schema-v1.33.0...schema-v1.33.1) - 2026-11-19
+
+### Other
+
+- *(unstable)* remove malformed-value handling from the spec text ([#2891](https://github.com/agentclientprotocol/agent-client-protocol/pull/2891))
+
 ## [1.33.0](https://github.com/agentclientprotocol/agent-client-protocol/compare/schema-v1.32.0...schema-v1.33.0) - 2026-11-18
 
 ### Added
